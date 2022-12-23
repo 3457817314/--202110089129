@@ -9,5 +9,3 @@ interface IParams {
     // 获取入学序列，例如 [1 2 2 3] 表示 依次报名入学一名大班学生，中班学生，中班学生，小班学生
     public ArrayList<Integer> getPlanSignUp ();
 }
-//班级
-//学生
