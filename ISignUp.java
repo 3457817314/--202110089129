@@ -7,4 +7,4 @@ interface ISignUp{
     public void addStudent (int stuType);
     // 解析命令行输入的参数（格式），如文档描述
 }
-
+//接口
